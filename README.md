@@ -6,6 +6,6 @@ The AI Threat Map includes five catagories of Threats
 4. AI Legal & Regulatory Threat
 5. AI Legal & Regulatory Threat
 6. Threat NOT Using AI Models
-7. Threat Not Understanding AI Models8. 
+7. Threat Not Understanding AI Models 
 ## Purpose 
 The purpose of the AI Threat Model is to help defenders prepare their organizations by understanding the different types of threats and implement appropriate controls.
