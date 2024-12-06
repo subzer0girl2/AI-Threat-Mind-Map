@@ -1,5 +1,6 @@
 # AI-Threat-Map
-![AI-THrat-map3](https://github.com/user-attachments/assets/2810232c-f41b-4ce0-b49a-1ed0219fb3a2)
+<img width="1226" alt="AI Threat Map_2 0black-color" src="https://github.com/user-attachments/assets/e342cb03-9b79-45a0-b0c9-6501e8a4b152">
+
 
 
 The AI Threat Map includes seven catagories of Threats
